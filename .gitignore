@@ -1,0 +1,10 @@
+out/
+.idea/
+*.iml
+*.class
+*.jar
+!lib/*.jar
+*.pdf
+*.model
+*.result
+.DS_Store
